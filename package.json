@@ -1,0 +1,20 @@
+{
+  "name": "cookie-jar-min",
+  "version": "0.0.0",
+  "description": "a minimal cookie-jar manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "prove --ext .js --exe node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ishiduca/node-cookie-jar-min.git"
+  },
+  "dependencies": {
+    "moment": "~1.7.2"
+  },
+  "keywords": [
+    "cookie-jar"
+  ],
+  "author": "ishiduca",
+}

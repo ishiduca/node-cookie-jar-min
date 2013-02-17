@@ -1,0 +1,72 @@
+{
+    "asian.kung-fu.generation": {
+        "/01": {
+            "Flashback": {
+                "value": "1:58"
+            }
+        }
+      , "/02": {
+            "Mirai no Kakera": {
+                "value": "4:45"
+            }
+        }
+      , "/03": {
+            "Denpatou": {
+                "value": "3:31"
+            }
+        }
+      , "/04": {
+            "Understand": {
+                "value": "3:44"
+              , "favorite": ""
+            }
+        }
+      , "/05": {
+            "Natsu no Hi, Zanzou": {
+                "value": "4:41"
+              , "ruby": "夏の日、残像"
+            }
+        }
+      , "/06": {
+            "Mugen Glider": {
+                "value": "5:07"
+            }
+        }
+      , "/07": {
+            "Sono Wake o": {
+                "value": "4:36"
+            }
+        }
+      , "/08": {
+            "N.G.S": {
+                "value": "2:54"
+            }
+        }
+      , "/09": {
+            "Jihei Tansaku": {
+                "value": "3:28"
+              , "favorite": ""
+            }
+        }
+      , "/10": {
+            "E": {
+                "value": "4:12"
+            }
+        }
+      , "/11": {
+            "Kimi to Iu Hana": {
+                "value": "6:10"
+            }
+        }
+      , "/12": {
+            "No Name": {
+                "value": "5:00"
+            }
+        }
+      , "/13": {
+            "Yoru no Call": {
+                "value": "3:55"
+            }
+        }
+    }
+}
